@@ -12,11 +12,13 @@ If you discover a vulnerability, please:
 * **Do** provide sufficient information to reproduce the problem, so we will be able to resolve it as quickly as possible.
   Complex vulnerabilities may require further explanation!
 
-When reporting an issue, where possible, please provide at least:
+When reporting an issue, where possible, please provide the requested information listed below (as much as you can provide):
 
 * The project and commit version the issue was identified at
-* A proof of concept
+* Full path(s) of source file(s) related to the manifestation of the issue
+* A proof of concept or exploit code (if possible)
 * Steps to reproduce
+* Impact of the issue, including how an attacker might exploit the issue
 * Your recommended remediation(s), if any
 
 For sensitive email communications, please use [this PGP key](https://www.strappazzon.xyz/files/strappazzon_xyz.asc).
@@ -36,3 +38,4 @@ This policy is adapted from:
 * [responsibledisclosure.nl/en](https://web.archive.org/web/20210205201736/https://responsibledisclosure.nl/en/)
 * [gorilla/.github/SECURITY.md](https://github.com/gorilla/.github/blob/master/SECURITY.md)
 * [laminas/.github/SECURITY.md](https://github.com/laminas/.github/blob/master/SECURITY.md)
+* [microsoft/\*/SECURITY.md](https://github.com/microsoft/vscode/blob/main/SECURITY.md)
