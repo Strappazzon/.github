@@ -21,7 +21,7 @@ When reporting an issue, where possible, please provide the requested informatio
 * Impact of the issue, including how an attacker might exploit the issue
 * Your recommended remediation(s), if any
 
-For sensitive email communications, please use [this PGP key](https://www.strappazzon.xyz/files/strappazzon_xyz.asc).
+For sensitive email communications, please use [this PGP key](https://strappazzon.xyz/static/strappazzon_xyz.asc).
 
 ## Policy
 
