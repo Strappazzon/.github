@@ -6,7 +6,7 @@
 
 If you discover a vulnerability, please:
 
-* **E-mail** your findings to `a AT strappazzon DOT xyz`
+* **E-mail** your findings to `im AT strappazzon DOT xyz`
 * **Do not** take advantage of the vulnerability or problem you have discovered
 * **Do not** reveal the problem to others until it has been resolved
 * **Do** provide sufficient information to reproduce the problem, so we will be able to resolve it as quickly as possible.
@@ -21,7 +21,7 @@ When reporting an issue, where possible, please provide the requested informatio
 * Impact of the issue, including how an attacker might exploit the issue
 * Your recommended remediation(s), if any
 
-For sensitive email communications, please use [this PGP key](https://strappazzon.xyz/static/strappazzon_xyz.asc).
+For sensitive email communications, please use [this PGP key](https://strappazzon.xyz/static/pgp/strappazzon_im.asc).
 
 ## Policy
 
